@@ -1,4 +1,4 @@
- What does this project do? -> 
+ #What does this project do? -> 
  This program is called 'Watermelon Game'. This game combines two small circles to make a bigger circle. When a large circle is made, the score goes up, and the final goal is to increase the score more. I wanted to take the source of this game and add other elements to make it my own game.
 
 Why is this project useful? -> 
