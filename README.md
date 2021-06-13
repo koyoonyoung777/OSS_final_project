@@ -5,8 +5,7 @@ Why is this project useful? ->
 You can relieve stress by playing games.
 
 How do I get started? -> 
-You can do it by following this link. : https://www.canva.com/design/DAEhDEBTWds/share/preview?token=vdG6P5-c3fw0i2jO-mh_7Q&role=EDITOR&utm_content=DAEhDEBTWds&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-
+You can do it by following this link. : oss-final-project-main-krbwy5kff-koyoonyoung777.vercel.app
 Where can I get more help, if I need it? -> 
 If you need any help, please contact this email : 22000021@handong.edu
 
