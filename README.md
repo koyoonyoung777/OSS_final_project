@@ -1,9 +1,9 @@
  What does this project do? -> 
-  This program is called 'Watermelon Game'. This game combines two small circles to make a bigger circle. When a large circle is made, the score goes up, and the final goal is to increase the score more. I wanted to take the source of this game and add other elements to make it my own game.😊
+  This program is called 'Watermelon Game'. This game combines two small circles to make a bigger circle. When a large circle is made, the score goes up, and the final goal is to increase the score more. I wanted to take the source of this game and add other elements to make it my own game. What I wanted to do was create a difficult version of this game. So I changed this game the other way around.
 
 
 Why is this project useful? -> 
-You can relieve stress by playing games.
+It's a game for people who want to play a difficult game. And, you can relieve stress by playing games.
 
 
 How do I get started? -> 
