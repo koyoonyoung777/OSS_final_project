@@ -7,8 +7,7 @@ You can relieve stress by playing games.
 
 
 How do I get started? -> 
-You can do it by following this link. : oss-final-project-main-krbwy5kff-koyoonyoung777.vercel.app
-
+You can do it by following this link. : oss-final-project1-qk1ljbvhf-koyoonyoung777.vercel.app
 
 Where can I get more help, if I need it? -> 
 If you need any help, please contact this email : 22000021@handong.edu
